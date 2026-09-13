@@ -74,5 +74,5 @@ The interactive dashboard includes:
 - What are the high, medium, and low engagement posts?
 - How does social media performance vary across platforms and regions?
 ## Dashboard
-"C:\Users\sasim\Pictures\Screenshots\Screenshot 2026-09-12 215243.png"
+![Social Media Performance Dashboard](Dashboard.png)
   
