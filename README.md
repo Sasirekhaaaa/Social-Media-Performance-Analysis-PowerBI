@@ -75,4 +75,10 @@ The interactive dashboard includes:
 - How does social media performance vary across platforms and regions?
 ## Dashboard
 ![Social Media Performance Dashboard](Dashboard.png)
+## Conclusion
+This project demonstrates how Power BI and DAX can be used to analyze
+social media performance across platforms, regions, and content types.
+The interactive dashboard helps identify engagement trends, reach,
+top-performing posts, and content performance, supporting
+data-driven decision-making.
   
